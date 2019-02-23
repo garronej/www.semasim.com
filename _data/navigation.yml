@@ -1,0 +1,16 @@
+- name: Instalation Guide
+  link: /instructions/
+  new_window: false
+  highlight: false
+- name: Pricing
+  link: /pricing/
+  new_window: false
+  highlight: false
+- name: Login
+  link: https://web.semasim.com/login
+  new_window: true
+  highlight: false
+- name: Sign Up
+  link: https://web.semasim.com/register
+  new_window: true
+  highlight: true
