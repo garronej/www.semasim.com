@@ -1,3 +1,5 @@
+PRIVACY
+
 1\. PURPOSE
 -----------
 
