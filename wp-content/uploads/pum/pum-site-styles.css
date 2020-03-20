@@ -104,3 +104,4 @@ html.pum-open.pum-open-overlay-disabled.pum-open-scrollable .pum-overlay.pum-act
 .pum-theme-6639 .pum-title, .pum-theme-framed-border .pum-title {color: #000;text-align: left;text-shadow: 0px 0px 0px rgba(2,2,2,.23);font-family: inherit;font-weight: 100;font-size: 32px;line-height: 36px;}
 .pum-theme-6639 .pum-content, .pum-theme-framed-border .pum-content {color: #2d2d2d;font-family: inherit;font-weight: 100;}
 .pum-theme-6639 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close {position: absolute;height: 20px;width: 20px;left: auto;right: -20px;bottom: auto;top: -20px;padding: 0px;color: #fff;font-family: Tahoma;font-weight: 700;font-size: 16px;line-height: 18px;border: 1px none #fff;border-radius: 0px;box-shadow: 0px 0px 0px 0px rgba(2,2,2,.23);text-shadow: 0px 0px 0px rgba(0,0,0,.23);background-color: rgba(0,0,0,.55);}
+#pum-7027 {z-index: 1999999999;}
